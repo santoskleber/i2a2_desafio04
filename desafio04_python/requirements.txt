@@ -1,6 +1,0 @@
-pandas
-numpy
-openpyxl
-xlsxwriter
-langchain
-langchain-openai
