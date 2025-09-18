@@ -4,5 +4,5 @@ import os
 DATA_DIR = os.environ.get("VR_DATA_DIR", "./data")
 
 # Arquivos de saída
-RESULT_FILE = os.path.join(DATA_DIR, "VR MENSAL 05.2025.xlsx")
-VALIDACAO_FILE = os.path.join(DATA_DIR, "VR_MENSAL 05.2025 - VALIDACAO.xlsx")
+RESULT_FILE = os.path.join(DATA_DIR, "VR_MENSAL_05_2025_RESULTADO.xlsx")
+VALIDACAO_FILE = os.path.join(DATA_DIR, "VR_MENSAL_05_2025_VALIDACAO.xlsx")
